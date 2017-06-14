@@ -1,6 +1,0 @@
-c:\users\billk\onedrive\documents\visual studio 2017\Projects\StackSample\StackSample\bin\Debug\StackSample.exe.config
-c:\users\billk\onedrive\documents\visual studio 2017\Projects\StackSample\StackSample\bin\Debug\StackSample.exe
-c:\users\billk\onedrive\documents\visual studio 2017\Projects\StackSample\StackSample\bin\Debug\StackSample.pdb
-c:\users\billk\onedrive\documents\visual studio 2017\Projects\StackSample\StackSample\obj\Debug\StackSample.exe
-c:\users\billk\onedrive\documents\visual studio 2017\Projects\StackSample\StackSample\obj\Debug\StackSample.pdb
-C:\Users\billk\OneDrive\Documents\Visual Studio 2017\Projects\StackSample\StackSample\obj\Debug\StackSample.csprojResolveAssemblyReference.cache
