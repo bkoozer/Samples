@@ -1,0 +1,4 @@
+c:\users\billk\onedrive\documents\visual studio 2017\Projects\StackSample\DataStructures\bin\Debug\DataStructures.dll
+c:\users\billk\onedrive\documents\visual studio 2017\Projects\StackSample\DataStructures\bin\Debug\DataStructures.pdb
+c:\users\billk\onedrive\documents\visual studio 2017\Projects\StackSample\DataStructures\obj\Debug\DataStructures.dll
+c:\users\billk\onedrive\documents\visual studio 2017\Projects\StackSample\DataStructures\obj\Debug\DataStructures.pdb
